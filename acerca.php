@@ -29,7 +29,6 @@
 				<i><b>APELLIDOS :</b></i><font color="blue"><b> Mejia Martinez</b></font></br>
 				<i><b>EDAD:</b></i><font color="blue"><b>20 años</b></font></br>
 				<i><b>FECHA DE NACIMIENTO:</b></i><font color="blue"><b>21/07/2000</b></font></br>
-				<i><b>DIRECCION:</b></i><font color="blue"><b>BO.Santa ana sur colegio divino pastor 3C N.</b></font></br>
 				<i><b>TELEFONO CELULAR:</b></i><font color="blue"><b>8831-4077 Claro</b></font></br>
 				<i><b>CORREO ELECTRONICO:</b></i><font color="blue"><b>argusdilan@gmail.com</b></font></br>
 				<i><b>Git Hub :</b></i><font color="blue"><b>https://github.com/xargusxd/Dilan-Mejia</b></font></br>
@@ -37,7 +36,6 @@
 			<progress id="file" max="100" value="70"> 70% </progress>
 			<label  for="file">Conocimiento en CSS: &nbsp; 70%</label>
 		<progress id="file" max="100" value="70"> 70% </progress><br>
-		<i><b>CEDULA:</b></i><font color="blue"><b>001-210700-1001W</b></font></br>
 		<i><b>Objetivos :</b></i><font color="blue"><b>Conseguir a lo largo de mis experiencias conocimientos unicos para realizar trabajos de calidad</b></font></br>
 		<br>
 		<div>
